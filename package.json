@@ -35,7 +35,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "mkdirp": "0.3.x",
+    "mkdirp": "0.5.5",
     "colors": "0.6.0-1",
     "optimist": "0.4.x"
   },
